@@ -1,7 +1,7 @@
 # Ultimate Rust 2: Intermediate Concepts
 
 This is the companion repository for the `Ultimate Rust 2: Intermediate Concepts` (the followup to the popular [Ultimate Rust Crash Course]).  _UR2IC_ will be published independently online in the second half of 2021 and is also presented live as part of some O'Reilly virtual events such as  [Rust in 3 Weeks], or taught in-person for corporate training.  You will get the most out of this training experience by doing the [exercises] in this repository and watching (or attending) the instructor-led training.
-
+  
 In other words, this repository is for you hands-on-learners!
 
 I use macOS, and that is what I developed this course on.  Everything _ought_ to work similarly on major Linux distributions and Windows. Please [contact me](mailto:nathan@agileperception.com) ASAP if you have trouble with anything on this page.
